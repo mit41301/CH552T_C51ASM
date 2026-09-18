@@ -1,4 +1,4 @@
-BASIC-52 Ver.1.3 along with I2C, SFR WR/RD functions assembled using Atmel C51ASM  V1.1 and V1.2
+BASIC-52 Ver.1.3 along with I2C, SFR WR/RD functions assembled using Atmel C51ASM  V1.1 and V1.2. Default crystal value changed to **24 MHz**.
 
 [C51ASM](https://www.microchip.com/en-us/development-tool/C51ASM)  
 
